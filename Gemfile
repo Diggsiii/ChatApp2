@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'chosen-rails'
 gem 'gravatar_image_tag'
 gem "mailboxer"
 gem 'devise'
