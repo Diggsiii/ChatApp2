@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
-
+gem 'rails_admin'
+gem 'jquery-turbolinks'
 gem 'chosen-rails'
 gem 'gravatar_image_tag'
 gem "mailboxer"
