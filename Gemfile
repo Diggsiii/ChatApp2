@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+
+gem 'gravatar_image_tag'
 gem "mailboxer"
 gem 'devise'
 gem 'bootstrap-sass'
