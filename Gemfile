@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem "mailboxer"
 gem 'devise'
 gem 'bootstrap-sass'
 gem 'bootstrap-will_paginate'
